@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m currently working on my project [xForm](https://github.com/dongls/xForm).
 
-![coding](./coding.gif)
+![coding](https://raw.githubusercontent.com/dongls/dongls/master/coding.gif)
 <!--
 **dongls/dongls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...👨‍💻
 -->
